@@ -23,3 +23,5 @@ that returns a 2D NumPy array with one image per row (563 rows) and one pixel pe
 <br />Principal Component Analysis (PCA)
 <br />Kernel PCA (kPCA)
 <br />Isometric mapping with Isomap
+
+![aglomerative_clustering](https://user-images.githubusercontent.com/45294533/220621339-ca04d030-2806-4863-a25f-a1b66603905f.png)
