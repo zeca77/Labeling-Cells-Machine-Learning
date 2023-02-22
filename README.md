@@ -1,5 +1,5 @@
 # Labeling-Cells-Machine-Learning
-This assignment was done in light of the Machine Learning course I attended at NOVA SST.
+#### This assignment was done in light of the Machine Learning course I attended at NOVA SST.
 <br />
 
 
@@ -24,4 +24,13 @@ that returns a 2D NumPy array with one image per row (563 rows) and one pixel pe
 <br />Kernel PCA (kPCA)
 <br />Isometric mapping with Isomap
 
+<br /> The goal of the assignment is to parameterize and compare three clustering algorithms: 
+#### Hierarchical (agglomerative) clustering
+#### Spectral Clustering 
+#### K-Means.
+## Results for the different algorithms
+
 ![aglomerative_clustering](https://user-images.githubusercontent.com/45294533/220621339-ca04d030-2806-4863-a25f-a1b66603905f.png)
+![spectral_clustering](https://user-images.githubusercontent.com/45294533/220622299-9e2212f8-f312-4804-8cb7-e4ffa167f390.png)
+![k_means](https://user-images.githubusercontent.com/45294533/220622216-4c26eb2a-4b44-4981-9f32-13d067ad97b2.png)
+
