@@ -12,10 +12,10 @@ In this assignment, you will load all images, extract features, examine them and
 for clustering to reach some conclusion about the best way of grouping these images
 
 
-In the tp2.zip file provided, there is a Python module, tp2 aux.py, with a function, images as matrix(),
+<br /> In the tp2.zip file provided, there is a Python module, tp2 aux.py, with a function, images as matrix(),
 that returns a 2D NumPy array with one image per row (563 rows) and one pixel per column
 (50x50=2500 columns) from the images in the images folder.
-From this matrix,  we extracted features using three different methods:
-Principal Component Analysis (PCA)
-Kernel PCA (kPCA)
-Isometric mapping with Isomap
+<br />From this matrix,  we extracted features using three different methods:
+<br />Principal Component Analysis (PCA)
+<br />Kernel PCA (kPCA)
+<br />Isometric mapping with Isomap
