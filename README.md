@@ -10,6 +10,8 @@ similar images. There was given a set of 563 PNG images (in the ./images/ folder
 taken from a super-resolution fluorescence microscopy photograph of Staphylococcus aureus, a
 common cause of hospital infections and often resistant to multiple antibiotics.
 
+![tp2cells](https://user-images.githubusercontent.com/45294533/220624509-8d5dca70-ee36-4fe0-9392-4c08efce50a3.png)
+
 
 
 
