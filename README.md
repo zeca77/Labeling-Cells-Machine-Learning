@@ -1,6 +1,9 @@
 # Labeling-Cells-Machine-Learning
 This assignment was done in light of the Machine Learning course I attended at NOVA SST.
 <br />
+
+
+
 The goal of this assignment is to examine a set of bacterial cell images using machine learning
 techniques, including feature extraction, feature selection, and clustering, to help biologists organize
 similar images. In this zip file, tp2.zip, you have a set of 563 PNG images (in the ./images/ folder)
