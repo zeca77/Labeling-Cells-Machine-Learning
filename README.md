@@ -1,5 +1,5 @@
 # Labeling-Cells-Machine-Learning
-#### This assignment was done in light of the Machine Learning course I attended at NOVA SST.
+#### This assignment was done in light of the Machine Learning course attended at NOVA SST.
 <br />
 
 
